@@ -73,4 +73,4 @@ The script will:
 
 The model demonstrates good performance across all classes, with particularly strong results for Ladybug and Mosquito (87% precision). The confusion matrix reveals that some visually similar insects (e.g., Dragonfly and Mosquito) are occasionally misclassified due to wing structure similarities.
 
-Detailed results and analysis are available in `CNN.pdf`.
+Detailed results and analysis are available in `CNN.pdf` (in Serbian).
